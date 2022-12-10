@@ -1,0 +1,10 @@
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.csproj.AssemblyReference.cache
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.AssemblyInfoInputs.cache
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.AssemblyInfo.cs
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netstandard2.0\WidgetScmDataAccess.deps.json
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netstandard2.0\WidgetScmDataAccess.dll
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\bin\Debug\netstandard2.0\WidgetScmDataAccess.pdb
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.dll
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\CreateTablesTest\WidgetScmDataAccess\obj\Debug\netstandard2.0\WidgetScmDataAccess.pdb
