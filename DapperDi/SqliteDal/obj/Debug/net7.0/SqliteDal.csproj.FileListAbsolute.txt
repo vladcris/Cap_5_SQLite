@@ -1,0 +1,15 @@
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\bin\Debug\net7.0\SqliteDal.deps.json
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\bin\Debug\net7.0\SqliteDal.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\bin\Debug\net7.0\SqliteDal.pdb
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\bin\Debug\net7.0\ScmDataAccess.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\bin\Debug\net7.0\ScmDataAccess.pdb
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\SqliteDal.csproj.AssemblyReference.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\SqliteDal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\SqliteDal.AssemblyInfoInputs.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\SqliteDal.AssemblyInfo.cs
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\SqliteDal.csproj.CoreCompileInputs.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\SqliteDal.csproj.CopyComplete
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\SqliteDal.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\refint\SqliteDal.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\SqliteDal.pdb
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\SqliteDal\obj\Debug\net7.0\ref\SqliteDal.dll

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WidgetScmDataAccess
+build_property.ProjectDir = c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperTest\WidgetScmDataAccess\

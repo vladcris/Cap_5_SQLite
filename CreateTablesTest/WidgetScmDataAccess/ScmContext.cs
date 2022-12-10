@@ -244,6 +244,34 @@ namespace WidgetScmDataAccess
                 throw;
             }
         }
+        public IEnumerable<Order> GetOrders()
+        {
+            var command = connection.CreateCommand();
+            command.CommandText = @"SELECT 
+                Id, SupplierId, PartTypeId, PartCount, PlacedDate, FulfilledDate 
+                FROM [Order]";
+            var reader = command.ExecuteReader();
+            var orders = new List<Order>();
+            while (reader.Read())
+            {
+                var order = new Order() {
+                Id = reader.GetInt32(0),
+                SupplierId = reader.GetInt32(1),
+                PartTypeId = reader.GetInt32(2),
+                PartCount = reader.GetInt32(3),
+                PlacedDate = reader.GetDateTime(4),
+                FufilledDate = reader.IsDBNull(5) ? 
+                    default(DateTime?) : reader.GetDateTime(5)
+                };
+                order.Part = Parts.Single(p => p.Id == order.PartTypeId);
+                order.Supplier = Suppliers.First(s => s.Id == order.SupplierId);
+                orders.Add(order);
+            }  
+
+            return orders;
+        }
+
+    
 
     }
 }

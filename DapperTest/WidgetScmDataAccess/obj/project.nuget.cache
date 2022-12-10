@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcDXlr/OTrjZ7UK3p4/inHD9OtWZL85rSa/pEkVBU2iJUbg9B6SJ3ec1aXpyOY2Uu/3hP28arL9OgeS/5+9VyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\const\\source\\repos\\NetCoreInAction\\Cap_5_SQLite\\DapperTest\\WidgetScmDataAccess\\WidgetScmDataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\const\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\const\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\const\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\const\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\const\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -109,6 +109,34 @@ public class UnitTest1 : IClassFixture<SamplesScmDataFixture>
         Assert.Equal(0, (long)command.ExecuteScalar()); 
     }
 
+      [Fact]
+    public void TestUpdateInventoryWithOrder()
+    {
+        var item = _scmContext.Inventory.First();
+        var totalCount = item.Count;
+        _scmContext.CreatePartCommand(new PartCommand() {
+            PartTypeId = item.PartTypeId,
+            PartCount = totalCount,
+            Command = PartCountOperation.Remove
+        });
+
+        var inventory = new Inventory(_scmContext);
+        inventory.UpdateInventory();
+        var order = _scmContext.GetOrders().FirstOrDefault(
+            o => o.PartTypeId == item.PartTypeId &&
+            !o.FufilledDate.HasValue);
+        Assert.NotNull(order);
+
+        _scmContext.CreatePartCommand(new PartCommand() {
+            PartTypeId = item.PartTypeId,
+            PartCount = totalCount,
+            Command = PartCountOperation.Add
+        });
+
+        inventory.UpdateInventory();
+        Assert.Equal(totalCount, item.Count);
+    }
+
 
     private void AddParameter(DbCommand cmd, string name, object value)
         {

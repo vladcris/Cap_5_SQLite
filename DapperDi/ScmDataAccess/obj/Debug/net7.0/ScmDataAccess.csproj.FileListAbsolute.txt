@@ -1,0 +1,12 @@
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\bin\Debug\net7.0\ScmDataAccess.deps.json
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\bin\Debug\net7.0\ScmDataAccess.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\bin\Debug\net7.0\ScmDataAccess.pdb
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\ScmDataAccess.csproj.AssemblyReference.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\ScmDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\ScmDataAccess.AssemblyInfoInputs.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\ScmDataAccess.AssemblyInfo.cs
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\ScmDataAccess.csproj.CoreCompileInputs.cache
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\ScmDataAccess.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\refint\ScmDataAccess.dll
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\ScmDataAccess.pdb
+c:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\DapperDi\ScmDataAccess\obj\Debug\net7.0\ref\ScmDataAccess.dll

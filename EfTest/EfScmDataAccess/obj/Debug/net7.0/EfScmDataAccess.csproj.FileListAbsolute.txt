@@ -1,0 +1,14 @@
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\bin\Debug\net7.0\EfScmDataAccess.deps.json
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\bin\Debug\net7.0\EfScmDataAccess.runtimeconfig.json
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\bin\Debug\net7.0\EfScmDataAccess.dll
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\bin\Debug\net7.0\EfScmDataAccess.pdb
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\EfScmDataAccess.csproj.AssemblyReference.cache
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\EfScmDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\EfScmDataAccess.AssemblyInfoInputs.cache
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\EfScmDataAccess.AssemblyInfo.cs
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\EfScmDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\EfScmDataAccess.dll
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\refint\EfScmDataAccess.dll
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\EfScmDataAccess.pdb
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\EfScmDataAccess.genruntimeconfig.cache
+C:\Users\const\source\repos\NetCoreInAction\Cap_5_SQLite\EfTest\EfScmDataAccess\obj\Debug\net7.0\ref\EfScmDataAccess.dll
